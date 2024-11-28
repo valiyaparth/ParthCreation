@@ -195,25 +195,25 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                 <!-- Card -->
                 <div class="flex flex-col items-center p-6 text-center bg-white border-2 rounded-md shadow-sm hover:shadow-xl">
-                    <img src="img/links/star.svg" alt="" class="h-12 w-12 mb-4">
+                    <img src="img/svg/star.svg" alt="" class="h-12 w-12 mb-4">
                     <h3 class="text-lg text-[#11274F] font-bold mb-2">Quality Products</h3>
                     <p class="text-sm text-[#7E8C90]">We strive to provide the best quality products to our customers.</p>
                 </div>
                 <!-- Card -->
                 <div class="flex flex-col items-center p-6 text-center bg-white border-2 rounded-md shadow-sm hover:shadow-xl">
-                    <img src="img/links/arrow-trend-up.svg" alt="" class="h-12 w-12 mb-4">
+                    <img src="img/svg/arrow-trend-up.svg" alt="" class="h-12 w-12 mb-4">
                     <h3 class="text-lg text-[#11274F] font-bold mb-2">Best Prices</h3>
                     <p class="text-sm text-[#7E8C90]">Competitive pricing on all our products.</p>
                 </div>
                 <!-- Card -->
                 <div class="flex flex-col items-center p-6 text-center bg-white border-2 rounded-md shadow-sm hover:shadow-xl">
-                    <img src="img/links/award.svg" alt="" class="h-12 w-12 mb-4">
+                    <img src="img/svg/award.svg" alt="" class="h-12 w-12 mb-4">
                     <h3 class="text-lg text-[#11274F] font-bold mb-2">Customer Satisfaction</h3>
                     <p class="text-sm text-[#7E8C90]">We're here to ensure every purchase delights you.</p>
                 </div>
                 <!-- Card -->
                 <div class="flex flex-col items-center p-6 text-center bg-white border-2 rounded-md shadow-sm hover:shadow-xl">
-                    <img src="img/links/sparkles.svg" alt="" class="h-12 w-12 mb-4">
+                    <img src="img/svg   /sparkles.svg" alt="" class="h-12 w-12 mb-4">
                     <h3 class="text-lg text-[#11274F] font-bold mb-2">Personalization</h3>
                     <p class="text-sm text-[#7E8C90]">Crafted your way, designed for you. Personalize to make it truly unique.</p>
                 </div>
